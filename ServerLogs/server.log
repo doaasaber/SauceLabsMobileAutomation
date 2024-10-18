@@ -1,0 +1,14 @@
+2024-05-09 07:28:03:603 [Appium] Welcome to Appium v2.4.1
+2024-05-09 07:28:03:605 [Appium] Non-default server args:
+2024-05-09 07:28:03:606 [Appium] { basePath: '/wd/hub', sessionOverride: true }
+2024-05-09 07:28:03:606 [Appium] The autodetected Appium home path: /Users/aziyadeh/.appium
+2024-05-09 07:28:03:607 [Appium] Attempting to load driver xcuitest...
+2024-05-09 07:28:03:607 [Appium] Attempting to load driver espresso...
+2024-05-09 07:28:03:607 [Appium] Attempting to load driver uiautomator2...
+2024-05-09 07:28:03:611 [Appium] Requiring driver at /Users/aziyadeh/.appium/node_modules/appium-xcuitest-driver/build/index.js
+2024-05-09 07:28:03:615 [Appium] Requiring driver at /Users/aziyadeh/.appium/node_modules/appium-espresso-driver/build/index.js
+2024-05-09 07:28:03:616 [Appium] Requiring driver at /Users/aziyadeh/.appium/node_modules/appium-uiautomator2-driver/build/index.js
+2024-05-09 07:28:05:194 [Appium] XCUITestDriver has been successfully loaded in 1.586s
+2024-05-09 07:28:05:194 [Appium] EspressoDriver has been successfully loaded in 1.587s
+2024-05-09 07:28:05:194 [Appium] AndroidUiautomator2Driver has been successfully loaded in 1.587s
+2024-05-09 07:28:05:205 [HTTP] Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.
