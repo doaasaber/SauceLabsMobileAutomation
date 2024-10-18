@@ -1,4 +1,6 @@
 ## steps to run locally
+- make sure to change the device name and udid in config.properties file 
+- No need to change the androidAppLocation path as i used System.getProperty("user.dir") in TestBase Class
 
 - make sure that Node is installed on your system otherwise you need to install
 
